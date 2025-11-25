@@ -20,8 +20,11 @@
 3. Запустить приложение: `npm start`
 
 ## Скриншоты
-![Скриншот 1](screenshot1.png) - Приложение показывает слово
-![Скриншот 2](screenshot2.png) - Приложение показывает перевод
+![Скриншот 1](scr<img width="936" height="413" alt="Снимок экрана 2025-11-25 194647" src="https://github.com/user-attachments/assets/62478cd9-9b86-46c9-a173-1be0bd507f5d" />
+eenshot1.png) - Приложение показывает слово
+![Скриншот 2](scre<img width="960" height="438" alt="Снимок экрана 2025-11-25 194700" src="https://github.com/user-attachments/assets/a3f8f676-6991-4339-991c-016d02c368cc" />
+enshot2.png) - Приложение показывает перевод
+<img width="953" height="440" alt="Снимок экрана 2025-11-25 194714" src="https://github.com/user-attachments/assets/d958e30a-2767-464b-8614-d96a3a8b40ec" />
 
 ## Автор
 Артём Ким
